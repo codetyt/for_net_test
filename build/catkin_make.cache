@@ -1,0 +1,2 @@
+test
+-DCATKIN_DEVEL_PREFIX=/home/work/ros_to_nrp_test/devel -DCMAKE_INSTALL_PREFIX=/home/work/ros_to_nrp_test/install -G Unix Makefiles
